@@ -1,4 +1,4 @@
-# MegalineOperator_SDA_Data_analysis
+# Statistical Data Analysis Project for Megaline Operator
 # Project description and General Information
 
 You work as an analyst for the telecom operator *Megaline*. The company offers its clients two prepaid plans: "Surf and Ultimate". 
